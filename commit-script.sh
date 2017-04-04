@@ -9,9 +9,16 @@ for i in *; do
 		fi
 		git add .
 		git commit -m "Aggiornamento $i"
+		git config --global user.name "Marco Marinello"
+		git config --global user.email "marco.marinello@fuss.bz.it"
+		git config user.name "Marco Marinello"
+		git config user.email "marco.marinello@fuss.bz.it"
 		cd ..
 	fi
 done
 
 git config --global user.name "Marco Marinello"
 git config --global user.email "marco.marinello@fuss.bz.it"
+git config user.name "Marco Marinello"
+git config user.email "marco.marinello@fuss.bz.it"
+
