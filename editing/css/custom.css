@@ -1,0 +1,9 @@
+body {
+	/*color: white;
+	background-image: url("../img/background.jpg");*/
+	background-color: #eee;
+}
+
+.table > tbody > tr > td {
+     vertical-align: middle;
+}
