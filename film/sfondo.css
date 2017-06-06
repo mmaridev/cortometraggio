@@ -1,0 +1,16 @@
+body { 
+color white;
+background-color:cornflowerblue;;
+}
+h1 {
+	color: yellow;;
+}	
+h1  { text-align: center;
+}	
+
+a:link {
+	color:greenyellow;
+}
+a:visited {
+	color: red ;
+}
