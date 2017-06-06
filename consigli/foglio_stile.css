@@ -1,0 +1,16 @@
+body {
+	background-image: url("img/sipario1.jpg"); 
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+/* ID */
+
+#margini {
+	margin-top: 30; 
+	margin-left: 30;
+}
