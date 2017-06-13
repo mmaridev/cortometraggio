@@ -1,0 +1,31 @@
+body {
+	color: white;
+	background-color: black;  
+}
+
+h1 {
+	color: red;
+	text-align: center; 
+}
+
+h5 { 
+	color: cyan;
+	text-indent: inherit;
+	font-size: 1.5em;
+}
+
+h3 { 
+	color: cyan;
+	font-size: 2.0em;
+}
+
+h4 { 
+	color: cyan;
+	font-size: 2.0em;
+}
+
+p { 
+	text-align: justify;
+}
+
+.pull-right {float: right;}
