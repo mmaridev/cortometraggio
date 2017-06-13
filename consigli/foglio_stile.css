@@ -4,7 +4,8 @@ body {
 }
 
 h1 {
-	text-align: center;
+	text-align: center; 
+	font-size: 45px;
 }
 
 
@@ -13,4 +14,31 @@ h1 {
 #margini {
 	margin-top: 30; 
 	margin-left: 30;
+}
+
+h1, h2 {
+	color: #00E5FF;
+}
+
+
+p {
+	font-size: 18px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+table {
+	color: #00E5FF;
+	font-size: 18px;
+	
+}
+
+img {
+	border: 5px solid #38FF6E; 
+}
+
+a {
+	color: #00E5FF;
 }
