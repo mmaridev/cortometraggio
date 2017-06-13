@@ -1,0 +1,43 @@
+body {
+   background-color: whitesmoke;
+	background-repeat: no-repeat;
+	background-position: center center;
+	color:blueviolet;
+}
+
+h1 {
+	text-align: center;
+	color: darkslateblue;;
+}
+
+p {
+	text-align: center;
+	color: darkslateblue;;;;;
+}
+
+h2 {
+	text-align: left;;
+	color: darkblue;;;;;
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+	color: lightseagreen;
+}
+
+
+a:link {
+	color: pink;
+}
+
+a:visited {
+	color:lightseagreen;
+}
+
+/* ID */
+
+#margini {
+	margin-top: 30; 
+	margin-left: 30;
+}
