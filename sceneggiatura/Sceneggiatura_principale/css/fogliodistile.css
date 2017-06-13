@@ -1,0 +1,57 @@
+body {
+	background-image: url("../img/sfondo.jpg");
+	color: black;
+	height: 2em;
+	margin-left: 50;
+	margin-right: 50;
+}
+
+h1 {
+	text-align: center;
+	color: blueviolet;
+}
+
+h2 {
+	text-align: center;
+	color: blue;
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+table, th, td
+{
+	border: 1px solid white;
+}
+
+img {
+	border: 5px solid blue;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;	
+	/*
+	border-color: lightskyblue;
+	border-width:em;*/
+}
+
+a:link {
+	color: greenyellow;;
+}
+
+a:visited {
+	color: green;;
+}
+
+/* ID */
+
+#margini {
+	margin-top: 30; 
+	margin-left: 200;
+	margin-right: 200;
+}
+hr {
+	color: red;
+	border: 2px solid red;
+	}

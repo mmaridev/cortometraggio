@@ -2,7 +2,34 @@ body{
 	background-image: url("img/sondo.jpg");
 	}
 
-img{
-	margin-left:center;
-	margin-right:center;
-	}
+img
+{
+	display: block;  
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h1{text-align: center;
+	color: purple;	
+	
+}
+
+.titoletto
+{
+	color: blue;
+	font-style: oblique;
+	font-size: 1.4em;
+}
+
+.titoli
+{
+	color:darkcyan; 
+	font-style: oblique;
+	font-size: 1.9em;
+	
+}
+
+.dimensione
+{
+	color: darkviolet;
+}
