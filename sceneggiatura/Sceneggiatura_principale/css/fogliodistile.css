@@ -1,19 +1,20 @@
 body {
 	background-image: url("../img/sfondo.jpg");
-	color: black;
-	height: 2em;
+	color: blue;
+	height: 4em;
 	margin-left: 50;
 	margin-right: 50;
+	line-height: 1.5;
 }
 
 h1 {
 	text-align: center;
-	color: blueviolet;
+	color: red;
 }
 
 h2 {
 	text-align: center;
-	color: blue;
+	color: green;
 }
 
 table {
@@ -27,7 +28,7 @@ table, th, td
 }
 
 img {
-	border: 5px solid blue;
+	border: 5px solid black;
 	display: block;
 	margin-left:auto;
 	margin-right:auto;	
@@ -37,11 +38,13 @@ img {
 }
 
 a:link {
-	color: greenyellow;;
+	color: purple;
+
 }
 
 a:visited {
-	color: green;;
+	color: darkgreen;;
+
 }
 
 /* ID */
@@ -53,5 +56,9 @@ a:visited {
 }
 hr {
 	color: red;
-	border: 2px solid red;
+	border: 2px solid green;
 	}
+	
+	h3 {
+	text-align: center;
+}
